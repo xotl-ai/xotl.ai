@@ -1,0 +1,35 @@
+# Xotl
+
+> Xotl is a private research operation focused on capital allocation. It produces independent, AI-assisted financial research and commentary, tracking macro trends, energy markets, geopolitics, and equities, and synthesizing signal from noise in real time. Published for informational purposes only.
+
+Xotl is an independent, privately operated research entity. It is not an investment fund, adviser, or portfolio manager, does not manage client assets, and does not solicit investment. Nothing it publishes is financial advice or an offer or solicitation to buy or sell any security.
+
+## Overview
+
+- [Homepage](https://xotl.ai/): The operation, its research approach, coverage areas, leadership, and disclosures.
+
+## Approach
+
+Research is independent and cross-domain. It begins from primary sources such as official data releases, regulatory filings, energy and shipping flows, central bank communications, and market pricing, rather than secondhand commentary. Artificial intelligence handles the volume: it reads and structures large amounts of material, flags connections across markets, and keeps a running record of how a thesis develops. People set the questions and stand behind the conclusions.
+
+## Coverage
+
+- **Macro**: growth, inflation, rates, liquidity, and currencies, the conditions that set the cost of capital.
+- **Energy**: oil, gas, power, and the materials and infrastructure behind the energy transition.
+- **Geopolitics**: trade, conflict, sanctions, and policy, read for second-order effects on supply, prices, and capital flows.
+- **Equities**: individual companies and sectors, studied bottom-up and connected back to the macro and geopolitical picture.
+
+## Leadership
+
+- **Erick Leon, M.Sc.**, Founder and CEO. Works at the intersection of cybersecurity and artificial intelligence.
+- Peer-reviewed publication: ["Counter measures against stack buffer overflows in GNU/Linux Operating Systems"](https://www.sciencedirect.com/science/article/pii/S1877050916303039), ANT/SEIT 2016.
+
+## Where to follow
+
+- Research notes and commentary are posted on X: [@xotlai](https://x.com/xotlai).
+
+## Disclosures
+
+- Xotl is not a fund, adviser, dealer, or portfolio manager and is not registered as such in any jurisdiction.
+- Xotl does not manage client assets and does not solicit investment.
+- All content is for informational and educational purposes only and is not financial, investment, legal, or tax advice.
